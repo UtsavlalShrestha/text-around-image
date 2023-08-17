@@ -1,0 +1,38 @@
+/* *{
+    margin: 0%;
+    padding: 0%;
+} */
+h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+
+    background-color:darkslategray;
+    color: white;
+}
+
+figure{
+    float: left;
+    margin-right: 10px;
+}
+img{
+    border: 5px solid white;
+    height: 500px;
+    width: 400px;
+}
+img:hover{
+    /* height: 1000px;
+    width: 700px;
+    transition: 5s; */
+    border: 5px solid cornflowerblue;
+}
+figcaption{
+    margin-left: 100px;
+}
+i{
+    color:greenyellow;
+}
+.bold{
+    color: black;
+}
